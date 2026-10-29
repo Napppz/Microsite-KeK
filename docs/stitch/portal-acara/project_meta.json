@@ -1,0 +1,31 @@
+{
+  "retrievedAt": "2026-10-29T13:00:00+07:00",
+  "project": {
+    "id": "13518029913514023229",
+    "name": "projects/13518029913514023229",
+    "title": "KEK Business Forum Microsite",
+    "origin": "STITCH",
+    "projectType": "TEXT_TO_UI_PRO",
+    "deviceType": "DESKTOP"
+  },
+  "screen": {
+    "id": "5a4e29a75b6641cd841b88c1d4178a8c",
+    "name": "projects/13518029913514023229/screens/5a4e29a75b6641cd841b88c1d4178a8c",
+    "title": "Portal Acara KEK Business Forum (Editorial Redesign)",
+    "width": 2560,
+    "height": 12266,
+    "deviceType": "DESKTOP",
+    "screenshotFileResource": "projects/13518029913514023229/screens/5a4e29a75b6641cd841b88c1d4178a8c/fileEntries/screenshot",
+    "htmlCodeFileResource": "projects/13518029913514023229/screens/5a4e29a75b6641cd841b88c1d4178a8c/fileEntries/html"
+  },
+  "designSystem": {
+    "name": "Sovereign Portal",
+    "colorMode": "DARK",
+    "primaryColor": "#f29a2e",
+    "corporateBlue": "#183b5b",
+    "institutionalBlack": "#101820",
+    "ivoryBackground": "#F7F7F4",
+    "headlineFont": "Newsreader / Inter",
+    "bodyFont": "Work Sans / Inter"
+  }
+}
